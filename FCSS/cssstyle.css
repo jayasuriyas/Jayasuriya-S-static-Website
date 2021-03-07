@@ -1,0 +1,23 @@
+#full{
+    background-color: #FOE8F3;
+}
+.container-fluid{
+    color: #D2D3D3;
+}
+#contact{
+    text-align: center;
+    color:#2e3830;
+    font-size: 25px;
+}
+#mattercontact{
+     padding-left: 7%;
+    padding-right: 7%;
+}
+#navigation{
+    text-align: right;
+    background-color: #F0E8F3;
+    word-spacing: 18px;
+}
+#navigation a{
+    text-decoration: none;
+}
